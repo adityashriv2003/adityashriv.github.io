@@ -252,24 +252,7 @@ li{
     font-weight: 300;
 }
 
-.left-circ{
-    position: relative;
-    height: 75%;
-    width: 17%;
-    top: 10%;
-    animation:move2 4s infinite;
-    animation-delay: 0s;
-}
-.circle-img{
-    position: absolute;
-    width: 18%;
-    height: 11%;
-    right: 0%;
-    top: 30%;
-    animation:move 4s infinite;
-    animation-direction: initial;
 
-}
 
 
 .landing-text .scrolldown {
